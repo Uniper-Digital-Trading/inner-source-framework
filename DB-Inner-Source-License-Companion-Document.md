@@ -1,119 +1,118 @@
 # Begleitdokumentation Uniper Inner Source License 
 
 *Original document by Cornelius Schumacher, Schlomo Schapiro, 28.10.2019, DB Systel GmbH* \
-*Adapted by Tunay Okumus, 10.02.2022, Uniper SE*
+*Adaptation by Tunay Okumus, 10.02.2022, Uniper SE*
 
-## Was ist Inner Source?
+## What is inner-source?
 
-Mit "Inner Source" wird das Vorgehen beschrieben, Open-Source-Prinzipien auf die Software-Entwicklung innerhalb eines Unternehmens anzuwenden, ohne den Programmcode außerhalb des Unternehmens zu veröffentlichen. Damit kann von den Vorteilen von Open-Source-Entwicklungsmodellen profitiert werden, ohne die Entwicklung öffentlich zu machen, und ohne das Geschäftsmodell des Verkaufs von Software-Lizenzen aufzugeben.
+"Inner source" describes the approach of applying open source principles to software development within a company without publishing the program code outside the company. This makes it possible to benefit from the advantages of open source development models without making the development public and without abandoning the business model of selling software licenses.
 
-Inner Source kann so zu einer verbesserten Zusammenarbeit, zu Erhöhung von Entwicklungsgeschwindigkeit und Qualität führen, sowie dazu beitragen, Kosten zu senken. Dies gelingt insbesondere in Situationen, wo verschiedene Unternehmensteile Software-Komponenten mit ähnlichen Anforderungen benötigen, zum Beispiel bei internen Standardbibliotheken, Infrastruktur-Komponenten oder Entwicklungs-, Test- und Deployment-Werkzeugen.
+Inner Source can thus lead to improved collaboration, increase development speed and quality, and help to reduce costs. This is particularly successful in situations where different parts of the company require software components with similar requirements, for example internal standard libraries, infrastructure components or development, test and deployment tools.
 
-# Warum eine neue Softwarelizenz?
+# Why a new software license?
 
-Innerhalb einer einzigen Firma ist Inner Source vor allem eine neue Art der Zusammenarbeit und erfordert keine besonderen Verträge oder Softwarelizenzen, da alle Urheber und Nutzer einer Software derselben Firma angehören. Im Konzernkontext ergeben sich aus der Zusammenarbeit zwischen den unterschiedlichen eigenständigen Konzerntöchtern weitere Herausforderungen. Die Weitergabe von Quellcode oder Binärpaketen zwischen den unterschiedlichen Unternehmen -- selbst in demselben Konzern -- benötigt eine vertragliche Regelung und muss sich in der Bilanzierung der Firmen wiederfinden.
+Within a single company, Inner Source is primarily a new type of collaboration and does not require any special contracts or software licenses, since all authors and users of a software belong to the same company. In a group context, further challenges arise from the collaboration between the different independent group subsidiaries. The transfer of source code or binary packages between the different companies -- even in the same group -- needs a contractual arrangement and has to be reflected in the accounting of the companies.
 
-Die Uniper Inner Source Lizenz löst die vertraglichen Fragestellungen und schafft einen rechtssicheren Rahmen für die Kollaboration zwischen den Konzerntöchtern. Damit leistet die Uniper-ISL einen konkreten Beitrag zur ganzheitlichen Optimierung für den Uniper Konzern.
+The Uniper Inner Source License solves the contractual issues and creates a legally secure framework for collaboration between the group subsidiaries. Thus, the Uniper ISL makes a concrete contribution to the holistic optimization for the Uniper Group.
 
-Die finanziellen Aspekte sind nicht Teil der Betrachtung für die Uniper-ISL. Die Lizenz ermöglicht sowohl die kostenfreie Weitergabe als Schenkung als auch den Abschluss von zusätzlichen Verträgen, in denen z.B. eine Weiterentwicklung oder Support rund um die unter der Uniper-ISL lizenzierte Software vereinbart werden.
+The financial aspects are not part of the consideration for the Uniper ISL. The license allows both the free transfer as a gift and the conclusion of additional contracts in which, for example, further development or support around the software licensed under the Uniper-ISL are agreed.
 
-Da klassische Open Source Lizenzen nur von einer Schenkung der Software ausgehen und das Ziel haben, die maximale öffentliche Verbreitung der Software in der Welt zu ermöglichen und zu fördern, sind diese für die Kollaboration nach Open-Source-Prinzipien innerhalb eines Konzerns nicht anwendbar. Die Uniper-ISL als neue Lizenz schafft die Brücke zwischen diesen Welten und stellt einen rechtlichen Rahmen für die Open-Source-Zusammenarbeit innerhalb der Uniper Konzerns zur Verfügung.
+Since classic open source licenses only assume a donation of the software and have the goal of enabling and promoting the maximum public distribution of the software in the world, they are not applicable for collaboration according to open source principles within a corporate group. The Uniper ISL as a new license creates the bridge between these worlds and provides a legal framework for open source collaboration within the Uniper Group.
 
-Was ist die Uniper Inner Source Lizenz?
+What is the Uniper Inner Source License?
 -----------------------------------
 
-Die Uniper Inner Source Lizenz (Uniper-ISL) ist eine Softwarelizenz, unter der Software innerhalb des Uniper Konzerns frei verwendet und entwickelt werden kann und der Quellcode allen Software-Entwicklern innerhalb des Uniper Konzerns zu Verfügung steht. Sie ermöglicht damit kollaborative Entwicklungs- und Geschäftsmodelle ähnlich zu bekannten Open-Source-Modellen innerhalb des Konzerns ohne das Risiko, dass diese an die Öffentlichkeit außerhalb der Uniper gelangen.
+The Uniper Inner Source License (Uniper-ISL) is a software license under which software can be freely used and developed within the Uniper Group and the source code is available to all software developers within the Uniper Group. It thus enables collaborative development and business models similar to known open source models within the group without the risk of these becoming public outside Uniper.
 
-Die Uniper-ISL ist an eine Lizenz des sogenannten "Copyleft"-Typus angelehnt, der nicht nur sicherstellt, das Quellcode zu Verfügung steht und frei verwendet werden kann, sondern dass Änderungen und Weiterentwicklungen unter denselben Bedingungen zugänglich gemacht werden müssen, so dass der größtmögliche Nutzen aus dem gemeinsam genutzten und entwickelten Code gezogen werden kann.
+The Uniper-ISL is based on a license of the so-called "copyleft" type, which not only ensures that source code is available and can be freely used, but that modifications and further developments must be made available under the same conditions so that the greatest possible benefit can be derived from the shared and developed code.
 
-Die Lizenz steht als Option für interne Software-Entwicklung zu Verfügung und kann auch im Zusammenhang von Aufträgen und Verträgen zwischen verschiedenen Teilen des Konzerns genutzt werden.
+The license is available as an option for internal software development and can also be used in the context of orders and contracts between different parts of the Group.
 
-Neben den rechtlichen Rahmenbedingungen für das Teilen von Code innerhalb eines Open-Source-ähnlichen Entwicklungsmodells bietet die Uniper-ISL auch die Grundlage, um Elemente der Open-Source-Kultur zu adaptieren, wo sie helfen können, die Kommunikation und Zusammenarbeit zu verbessern und Prozesse effizienter, transparenter und selbst-organisierter zu gestalten.
+In addition to the legal framework for sharing code within an open source-like development model, the Uniper ISL also provides the basis for adapting elements of the open source culture where they can help improve communication and collaboration and make processes more efficient, transparent and self-organized.
+# Rights and obligations of the Uniper Inner Source License.
 
-# Rechte und Pflichten der Uniper Inner Source Lizenz
+The Uniper-ISL maps rights and obligations known from open source licenses to the scenario of intra-group development.
 
-Die Uniper-ISL bildet Rechte und Pflichten, die aus Open-Source-Lizenzen bekannt sind, auf das Szenario der konzerninternen Entwicklung ab.
+It is important to note that the rights and freedoms arising therefrom are always limited to use and disclosure within the group. Any transfer to parties outside the group requires explicit re-licensing, which must be carried out by the relevant rights holders.
 
-Es ist wichtig zu beachten, dass die Rechte und Freiheiten, die sich daraus ergeben, immer auf Verwendung und Weitergabe innerhalb des Konzerns beschränkt sind. Jegliche Weitergabe an Parteien außerhalb des Konzerns bedarf einer expliziten Umlizenzierung, die von den entsprechenden Rechteinhabern vorgenommen werden muss.
+Software licensed under the Uniper-ISL complies with the four freedoms of open source software within the group:
 
-Software, die unter der Uniper-ISL lizensiert ist, erfüllt innerhalb des Konzerns die vier Freiheiten von Open-Source-Software:
+1. the software can be used within the group without restrictions
 
-1.  Die Software kann ohne Einschränkungen innerhalb des Konzerns genutzt werden
+2. the source code of the software is available to all users
 
-2.  Der Quellcode der Software steht allen Nutzern zu Verfügung
+3. users can modify the software independently in order to make adjustments and improvements
 
-3.  Nutzer können die Software selbständig verändern, um Anpassungen und Verbesserungen vorzunehmen
+4. modified versions of the software can be passed on to others
 
-4.  Veränderte Versionen der Software können an andere weitergegeben werden
+Freedoms are exercised solely on the basis of the license. No license payments or other additional agreements are required.
 
-Die Ausübung der Freiheiten erfolgt ausschließlich auf Basis der Lizenz. Es sind keine Lizenzzahlungen oder andere zusätzliche Vereinbarungen notwendig.
+If there are requirements that go beyond the rights granted by the license, for example regarding liability and warranty or additional guarantees for support or development, additional agreements covering these requirements are necessary. The Uniper-ISL therefore permits such agreements to be entered into.
 
-Bestehen Anforderungen, die über die von der Lizenz erteilten Rechte hinausgehen, zum Beispiel bezüglich Haftung und Gewährleistung oder zusätzlicher Garantien für Support oder Entwicklung, sind zusätzliche Vereinbarungen notwendig, die diese Anforderungen abdecken. Die Uniper-ISL erlaubt es daher, solche Vereinbarungen einzugehen.
+The main obligation of the Uniper-ISL is to make the source code of the software licensed under the Uniper-ISL available to all recipients of the software. This includes the original code as well as any modifications that have been made to the code.
 
-Die Hauptverpflichtung der Uniper-ISL besteht darin, den Quellcode der unter der UniperSIL lizenzierten Software allen Empfängern der Software zu Verfügung zu stellen. Dies schließt den Originalcode ein sowie alle Änderungen, die am Code vorgenommen worden sind.
+This obligation cannot be limited, and thus propagates from one recipient of the software to the next. This ensures that the effort that goes into developing the software is available to the widest possible group of recipients. Any further developments thus also benefit all other users of the software, in the sense of optimization for the Uniper Group.
 
-Diese Verpflichtung kann nicht eingeschränkt werden, und pflanzt sich somit von einem Empfänger der Software zum nächsten fort. Damit wird sichergestellt, dass der Aufwand, der in die Entwicklung der Software geht, einem möglichst breiten Empfängerkreis zu Verfügung steht. Etwaige Weiterentwicklungen kommen so auch allen anderen Nutzern der Software zugute, im Sinne der Optimierung für den Uniper Konzern.
+The Uniper-ISL generally permits so-called "forks", i.e. development branches of the software that are continued independently of the original branch. However, this should only be necessary in well-founded exceptional cases. In any case, it is advisable to develop together on one branch and to make changes in the main branch, or at least to let them flow back in a timely manner. This avoids the expense of parallel developments, leads to optimal value creation by bundling development capacities, and ensures that the software can be maintained sustainably.
 
-Die Uniper-ISL erlaubt grundsätzlich sogenannte "Forks", das heißt Entwicklungszweige der Software, die unabhängig vom Original-Zweig weitergeführt werden. Allerdings sollte dies nur in gutbegründeten Ausnahmefällen notwendig sein. Es ist in jedem Fall geraten, gemeinsam an einem Zweig zu entwickeln und Änderungen im Hauptzweig vorzunehmen oder zumindest zeitnah wieder zurückfließen lassen. Das vermeidet die Aufwände für Parallel-Entwicklungen, führt zu einer optimalen Wertschöpfung durch Bündelung von Entwicklungskapazitäten, und stellt sicher, dass die Software nachhaltig gepflegt werden kann.
+# Application scenarios
 
-# Anwendungsszenarien
+The use of the Uniper-ISL is appropriate whenever code is to be made available to a broad audience within the Uniper Group in a way that is as easy to use as possible and collaboration on this code is to be enabled and encouraged.
 
-Die Nutzung der UniperSIL bietet sich immer dann an, wenn Code einem breiten Publikum innerhalb des Uniper Konzerns auf möglichst einfach zu nutzende Art und Weise zu Verfügung gestellt werden soll und Zusammenarbeit an diesem Code ermöglicht und gefördert werden soll.
+In principle, the Inner Source model can be used for a variety of use cases. It is particularly suitable for the following cases:
 
-Grundsätzlich kann das Inner-Source-Modell für eine Vielzahl an Anwendungsfällen genutzt werden. Es bietet sich insbesondere für folgende Fälle an:
+- Infrastructure and tools that are similar for many projects, and usually do not represent the technical core of the application.
 
-Infrastruktur und Werkzeuge, die für viele Projekte ähnlich sind, und üblicherweise nicht den fachlichen Kern der Anwendung darstellen
+- Reference implementations, which are to be made available as simply as possible to as large an audience as possible
 
-Referenz-Implementationen, die möglichst einfach einem möglichst gr0ßen Publikum zu Verfügung stehen sollen
+- Customer orders, in which the customer expects the software to be as widely usable as possible
 
-Kunden-Aufträge, in denen durch den Kunden eine möglichst breite Nutzbarkeit der Software erwartet wird
+- Implementations of standards that help to establish generally accepted standards
 
-Implementierungen von Standards, die helfen, allgemeingültige Standards zu etablieren
+The Uniper-ISL is not suitable for code that is developed under the business model of selling software usage licenses and for software that is to be distributed to recipients outside the Uniper Group. Here, depending on the use case, traditional proprietary or open source licenses are suitable.
 
-Nicht geeignet ist die Uniper-ISL für Code, der unter dem Geschäftsmodell des Verkaufs von Software-Nutzungslizenzen entwickelt wird, und für Software, die an Empfänger außerhalb des Uniper Konzerns weitergegeben werden soll. Hier bieten sich, je nach Anwendungsfall, traditionelle proprietäre oder Open-Source-Lizenzen an.
+# How is the Uniper Inner Source license applied?
 
-# Wie wird die Uniper Inner Source Lizenz angewandt?
+The application of the license is done in a similar way as known from the Apache license.
 
-Die Anwendung der Lizenz erfolgt in ähnlicher Weise wie von der Apache-Lizenz bekannt.
+An important principle is that existing license and copyright notices may not be removed, but must be preserved in their entirety when the software is distributed or modified. This ensures that there is clarity about the license and copyright holder of all parts of the software.
 
-Ein wichtiger Grundsatz ist, dass bestehende Lizenz- und Copyright-Hinweise nicht entfernt werden dürfen, sondern bei Weitergabe und Veränderung der Software vollständig erhalten werden müssen. So wird sichergestellt, dass Klarheit über Lizenz und Rechteinhaber von allen Teilen der Software herrscht.
+The license text is stored in a file with the name "LICENSE" (if necessary with a file extension like .TXT or .MD) in the root directory of the code repository. This file must always be included when the software is distributed, this applies to both distribution as source code and distribution in binary form.
 
-Der Lizenz-Text wird in einer Datei mit dem Namen "LICENSE" (ggf. mit einer Dateiendung wie .TXT oder .MD) im Wurzelverzeichnis des Code-Repositories gespeichert. Diese Datei muss bei Weitergabe der Software immer mit eingeschlossen sein, das gilt sowohl für die Weitergabe als Quellcode, als auch als Weitergabe in Binärform.
+If the software is distributed in binary form, an effective notice must be included as to how the recipient can obtain the source code from which the binary form was generated.
 
-Wenn die Software in Binärform weitergegeben wird, muss ein wirkungsvoller Hinweis enthalten sein, wie der Empfänger den Quell-Code erhalten kann, aus dem die Binärform erzeugt wurde.
+Ideally, all code developed under the Uniper-ISL is maintained in a version control system that is equally accessible to all to make use of the code and collaboration on it as effective as possible.
 
-Idealerweise wird aller Code, der unter der Uniper-ISL entwickelt wird, in einem Versions-Kontroll-System verwaltet, das für alle gleichermaßen zugänglich ist, um Nutzung des Codes und Zusammenarbeit daran möglichst effektiv zu gestalten.
+In each file of source code, a reference to the license and the owner of the exploitation rights must be included at the beginning.
 
-In jeder Datei des Quell-Codes muss am Anfang ein Hinweis auf die Lizenz und den Inhaber der Verwertungsrechte enthalten sein.
-
-Beispiel:
+Example:
 
     // Copyright 2022 Uniper SE
     // Licensed under the Uniper-ISL, see the accompanying file LICENSE.
 
-Wenn Änderungen an einer Datei durchgeführt durch einen Rechteinhaber durchgeführt werden, der noch nicht im Copyright-Hinweis genannt ist, fügt dieser neue Rechteinhaber eine zusätzliche Copyright-Zeile ein.
+If changes are made to a file by a rights holder who is not yet named in the copyright notice, this new rights holder will insert an additional copyright line.
 
-Die in den Copyright-Hinweisen genannten Jahre sollten den Jahren entsprechen, in denen durch den entsprechenden Rechteinhaber Änderungen vorgenommen wurden. Das kann auch eine Liste oder ein Bereich von Jahren sein, zum Beispiel "2017, 2019" oder "2018-2019".
+The years mentioned in the copyright notice should correspond to the years in which changes were made by the corresponding copyright holder. This can also be a list or range of years, for example "2019, 2021" or "2019-2020".
 
 Material
 --------
 
 **Inner Source**
 
--   [How Inner Source is like FLOSSing](https://www.oreilly.com/ideas/how-innersource-is-like-flossing) - Kurzes Vortragsvideo das erklärt, was Inner Source ist und warum es gut ist
+-   [How Inner Source is like FLOSSing](https://www.oreilly.com/ideas/how-innersource-is-like-flossing) - short lecture video explaining what Inner Source is and why it is good
 
--   [InnerSource Commons](https://innersourcecommons.org/) - Community-Ressourcen aus der Praxis zum Thema Inner Source
+-   [InnerSource Commons](https://innersourcecommons.org/) - Community resources from the field about Inner Source
 
--   [Adopting Inner Source, Principles and Case Studies](https://innersourcecommons.org/resources/books/adoptinginnersource/) - Buch mit Fallstudien von erfolgreicher Anwendung von Inner Source in Unternehmen wie Bosch, Ericsson oder Paypal
+-   [Adopting Inner Source, Principles and Case Studies](https://innersourcecommons.org/resources/books/adoptinginnersource/) - book with case studies of successful use of Inner Source in companies like Bosch, Ericsson or Paypal
 
-**Open Source Lizenzen**
+**Open Source Licenses**
 
-Zum Vergleich hier die Links zu einigen anderen Lizenzen:
+For comparison here are the links to some other licenses:
 
--   [EUPL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017D0863) - Open-Source-Lizenz der EU, angepasst an die Europäische Rechtslage, Vorlage für einen Teil der Uniper-ISL
+-   [EUPL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017D0863) - EU open source license, adapted to the European legal situation, template for part of the Uniper-ISL.
 
--   [Kommentar EUPL](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL-V11Broschuere-20090423WEB.pdf) - Kommentierte Version der EUPL
+-   [Kommentar EUPL](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL-V11Broschuere-20090423WEB.pdf) - commented version of the EUPL
 
--   [LGPL](https://www.gnu.de/documents/lgpl-3.0.de.html) - Open-Source-Lizenz mit "schwachem Copyleft"
+-   [LGPL](https://www.gnu.de/documents/lgpl-3.0.de.html) - Open-Source-License with "weak Copyleft"
 
--   [Apache Lizenz](https://www.apache.org/licenses/LICENSE-2.0) - Einer der verbreitetsten "permissive" Lizenzen
+-   [Apache Lizenz](https://www.apache.org/licenses/LICENSE-2.0) - one of the most common "permissive" licenses
