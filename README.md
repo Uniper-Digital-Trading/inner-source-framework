@@ -1,7 +1,6 @@
 # inner-source-policies
 
-Collection of Inner Source related policies at Uniper SE Digital Trading department. \
-**These policies and documentation are in Work in Progress state and are not valid until the DRAFT tags are removed.**
+Collection of Inner Source related policies at Uniper SE.
 
 ## Policies
 
