@@ -1,4 +1,4 @@
-# Begleitdokumentation Uniper Inner Source License 
+# Companion Documentation for Uniper Inner Source License 
 
 *Original document by Cornelius Schumacher, Schlomo Schapiro, 28.10.2019, DB Systel GmbH* \
 *Adaptation by Tunay Okumus, 10.02.2022, Uniper SE*
