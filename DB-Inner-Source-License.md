@@ -1,14 +1,16 @@
-# DB Inner Source Lizenz Version 1.0
+# Uniper Inner Source Lizenz Version 0.1.DRAFT
 
-_Fachautoren: [Cornelius Schumacher](https://github.com/cornelius), [Schlomo Schapiro](https://github.com/schlomo) (beide DB Systel GmbH)_
+Original license: _Authors: [Cornelius Schumacher](https://github.com/cornelius), [Schlomo Schapiro](https://github.com/schlomo) (both DB Systel GmbH)_ \
+Adaptation for Uniper: _Authors: [Tunay Okumus](https://github.com/tunayokumus) (Uniper SE)_
 
-Diese Inner-Source-Lizenz für die Deutsche Bahn („DBISL“) gilt für Werke (im Sinne der nachfolgenden Begriffsbestimmung), die unter DBISL-Bedingungen zur Verfügung gestellt werden. Das Werk darf nur in der durch diese Lizenz gestatteten Form genutzt werden (insoweit eine solche Nutzung dem Urheber vorbehalten ist).
+
+Diese Inner-Source-Lizenz für die Uniper („Uniper-ISL“) gilt für Werke (im Sinne der nachfolgenden Begriffsbestimmung), die unter Uniper-ISL-Bedingungen zur Verfügung gestellt werden. Das Werk darf nur in der durch diese Lizenz gestatteten Form genutzt werden (insoweit eine solche Nutzung dem Urheber vorbehalten ist).
 
 Das Werk wird unter den Bedingungen dieser Lizenz zur Verfügung gestellt, wenn der Lizenzgeber (im Sinne der nachfolgenden Begriffsbestimmung) den folgenden Hinweis unmittelbar hinter dem Urheberrechtshinweis dieses Werks anbringt:
 
-„Lizenziert unter der DBISL“ oder alternativ „Licensed under the DBISL“
+„Lizenziert unter der Uniper-ISL“ oder alternativ „Licensed under the Uniper-ISL“
 
-oder in einer anderen Form zum Ausdruck bringt, dass er es unter der DBISL lizenzieren möchte.
+oder in einer anderen Form zum Ausdruck bringt, dass er es unter der Uniper-ISL lizenzieren möchte.
 
 ## 1. Begriffsbestimmungen
 
@@ -20,22 +22,22 @@ Für diese Lizenz gelten folgende Begriffsbestimmungen:
 * „Werk“: das Originalwerk oder seine Bearbeitungen.
 * „Quellcode“: diejenige Form des Werkes, die zur Auffassung durch den Menschen bestimmt ist und die am besten geeignet ist, um vom Menschen verstanden und verändert zu werden.
 * „Ausführbarer Code“: die — üblicherweise — kompilierte Form des Werks, die von einem Computer als Programm ausgeführt werden soll.
-* „Lizenzgeber“: die juristische Person innerhalb des DB Konzerns, die das Werk unter der Lizenz verbreitet oder zugänglich macht.
+* „Lizenzgeber“: die juristische Person innerhalb des Uniper Konzerns, die das Werk unter der Lizenz verbreitet oder zugänglich macht.
 * „Urheberrechtsinhaber/Autor“: jeder, der bestimmte von ihm selbst entwickelte oder von Dritten vorgegebene Aufgabenstellungen in ein Originalwerk umsetzt oder am Originalwerk eine Bearbeitung vornimmt.
 * „Bearbeiter“: jeder, der das Werk unter der Lizenz verändert oder auf andere Weise zur Schaffung einer Bearbeitung beiträgt. Jeder Autor ist auch Bearbeiter.
-* „Lizenznehmer“ („Sie“, „Ihnen“): jede juristische Person innerhalb des DB Konzerns, die das Werk unter den Lizenzbedingungen nutzt.
+* „Lizenznehmer“ („Sie“, „Ihnen“): jede juristische Person innerhalb des Uniper Konzerns, die das Werk unter den Lizenzbedingungen nutzt.
 * „Verbreitung“ oder „Zugänglichmachung“: alle Formen von Verkauf, Überlassung, Verleih, Vermietung, Verbreitung, Weitergabe, Übermittlung oder anderweitiger Online- oder Offline-Bereitstellung von Vervielfältigungen des Werks oder Zugänglichmachung seiner wesentlichen Funktionen für dritte natürliche oder juristische Personen.
 * „Beitrag“: jedes urheberrechtliche Werk, einschließlich des Originalwerks sowie jeglicher Änderungen, die der Bearbeiter vornimmt, und die dem Lizenzgeber bewusst zur Aufnahme in das Werk eingereicht werden.
-* „DB“ oder „DB Konzern“: die Deutsche Bahn AG und alle mit ihr nach §15 AktG verbundenen Unternehmen.
+* „Uniper“ oder „Uniper Konzern“: die Uniper SE und alle mit ihr nach §15 AktG verbundenen Unternehmen.
 
 ## 2. Umfang der Lizenzrechte
 
-Der Lizenzgeber erteilt Ihnen hiermit eine weltweite, unentgeltliche, nicht ausschließliche, unterlizenzierbare Lizenz, die Sie für Geschäftszwecke des DB Konzerns berechtigt:
+Der Lizenzgeber erteilt Ihnen hiermit eine weltweite, unentgeltliche, nicht ausschließliche, unterlizenzierbare Lizenz, die Sie für Geschäftszwecke des Uniper Konzerns berechtigt:
 
 * das Werk uneingeschränkt zu nutzen,
 * das Werk zu vervielfältigen,
 * das Werk zu verändern und Bearbeitungen auf der Grundlage des Werks zu schaffen,
-* das Werk oder Vervielfältigungen davon innerhalb der DB zu verbreiten,
+* das Werk oder Vervielfältigungen davon innerhalb der Uniper zu verbreiten,
 
 Für die Wahrnehmung dieser Rechte können beliebige, derzeit bekannte oder künftige Medien, Träger und Formate verwendet werden, soweit das geltende Recht dem nicht entgegensteht.
 
@@ -53,9 +55,9 @@ Es ist nicht Zweck dieser Lizenz, Ausnahmen oder Schranken der ausschließlichen
 
 Die Einräumung der oben genannten Rechte ist an mehrere Beschränkungen und Pflichten für den Lizenznehmer gebunden:
 
-* Inner Source: Der Lizenznehmer darf das Werk ausschließlich für Geschäftszwecke des DB Konzerns nutzen.
+* Inner Source: Der Lizenznehmer darf das Werk ausschließlich für Geschäftszwecke des Uniper Konzerns nutzen.
 * Urheberrechtshinweis, Lizenztext, Nennung des Bearbeiters: Der Lizenznehmer muss alle Urheberrechts-, Patent- oder Markenrechtshinweise und alle Hinweise auf die Lizenz und den Haftungsausschluss unverändert lassen. Jedem von ihm verbreiteten oder zugänglich gemachten Vervielfältigungsstück des Werks muss der Lizenznehmer diese Hinweise sowie diese Lizenz beifügen. Der Lizenznehmer muss auf jedem abgeleiteten Werk deutlich darauf hinweisen, dass das Werk geändert wurde, und das Datum der Bearbeitung angeben.
-* „Copyleft“-Klausel: Der Lizenznehmer darf Vervielfältigungen des Originalwerks oder Bearbeitungen nur unter den Bedingungen dieser DBISL oder einer neueren Version dieser Lizenz innerhalb der DB verbreiten oder zugänglich machen. Der Lizenznehmer (der zum Lizenzgeber wird) darf für das Werk oder die Bearbeitung keine zusätzlichen Bedingungen anbieten oder vorschreiben, die die Bedingungen dieser Lizenz verändern oder einschränken.
+* „Copyleft“-Klausel: Der Lizenznehmer darf Vervielfältigungen des Originalwerks oder Bearbeitungen nur unter den Bedingungen dieser Uniper-ISL oder einer neueren Version dieser Lizenz innerhalb der Uniper verbreiten oder zugänglich machen. Der Lizenznehmer (der zum Lizenzgeber wird) darf für das Werk oder die Bearbeitung keine zusätzlichen Bedingungen anbieten oder vorschreiben, die die Bedingungen dieser Lizenz verändern oder einschränken.
 * Bereitstellung des Quellcodes: Wenn der Lizenznehmer Vervielfältigungsstücke des Werks verbreitet oder zugänglich macht, muss er eine maschinenlesbare Fassung des Quellcodes mitliefern oder einen Speicherort angeben, über den problemlos und unentgeltlich so lange auf diesen Quellcode zugegriffen werden kann, wie der Lizenznehmer das Werk verbreitet oder zugänglich macht.
 * Rechtsschutz: Diese Lizenz erlaubt nicht die Benutzung von Kennzeichen, Marken oder geschützten Namensrechten des Lizenzgebers, soweit dies nicht für die angemessene und übliche Beschreibung der Herkunft des Werks und der inhaltlichen Wiedergabe des Urheberrechtshinweises erforderlich ist.
 
@@ -119,13 +121,13 @@ Es gilt deutsches Recht. Sind einzelne Bestimmungen der Lizenz nach geltendem Re
 
 ## 15. Gesellschaftsrechtliche Veränderungen
 
-Bei gesellschaftsrechtlichen Veränderungen, z.B. dem Verkauf oder der Abspaltung einer DB Gesellschaft, gilt folgende Regelung:
+Bei gesellschaftsrechtlichen Veränderungen, z.B. dem Verkauf oder der Abspaltung einer Uniper Gesellschaft, gilt folgende Regelung:
 
-Eine weitere Nutzung der lizenzierten Software durch ein nicht mehr dem DB Konzern angehöriges Unternehmen unterliegt der Zustimmung durch die Urheber bzw. das [Entscheidungsgremium].
+Eine weitere Nutzung der lizenzierten Software durch ein nicht mehr dem Uniper Konzern angehöriges Unternehmen unterliegt der Zustimmung durch die Urheber bzw. das [Entscheidungsgremium].
 
 ## 16. Lizenzänderungen
 
-Die Urheber eines Werks können gemeinsam eine Änderung der Lizenz entscheiden, z.B. um das Werk als Open Source Software zu veröffentlichen. Falls die Urheber nicht verfügbar sind oder sich nicht einigen können, so kann das [Entscheidungsgremium] stellvertretend für alle Urheber innerhalb der DB die Änderung der Lizenz für ein Werk beschließen.
+Die Urheber eines Werks können gemeinsam eine Änderung der Lizenz entscheiden, z.B. um das Werk als Open Source Software zu veröffentlichen. Falls die Urheber nicht verfügbar sind oder sich nicht einigen können, so kann das [Entscheidungsgremium] stellvertretend für alle Urheber innerhalb der Uniper die Änderung der Lizenz für ein Werk beschließen.
 
 ## 17. Streitbeilegung
 
@@ -137,6 +139,6 @@ Bei Streitigkeiten im Zusammenhang mit der Auslegung und Anwendung dieser Lizenz
 
 Dieser Lizenztext ist lizenziert unter einer „[Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/)“ (CC-BY 4.0), siehe http://creativecommons.org/licenses/by/4.0/ für den vollständigen Lizenztext.
 
-Sie dürfen diesen Lizenztext für sich kopieren und anpassen, solange Sie dabei die Deutsche Bahn Marke und „DB“ nur innerhalb der DB benutzen. Falls Sie das Material für die Verwendung außerhalb der DB anpassen, so müssen Sie alle Nennungen der Deutschen Bahn und DB ersetzen bzw. entfernen. Geänderte Versionen des Lizenztextes müssen klar als geänderte Versionen kenntlich gemacht werden.
+Sie dürfen diesen Lizenztext für sich kopieren und anpassen, solange Sie dabei die Uniper Marke und „Uniper“ nur innerhalb der Uniper benutzen. Falls Sie das Material für die Verwendung außerhalb der Uniper anpassen, so müssen Sie alle Nennungen der Uniper und Uniper ersetzen bzw. entfernen. Geänderte Versionen des Lizenztextes müssen klar als geänderte Versionen kenntlich gemacht werden.
 
 Teile des Textes dieser Lizenz basieren auf der EU Public License (EUPL) v1.2.
