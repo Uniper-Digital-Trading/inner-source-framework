@@ -1,144 +1,143 @@
-# Uniper Inner Source Lizenz Version 0.1.DRAFT
+# Uniper Inner Source License Version 0.1.DRAFT
 
 Original license: _Authors: [Cornelius Schumacher](https://github.com/cornelius), [Schlomo Schapiro](https://github.com/schlomo) (both DB Systel GmbH)_ \
 Adaptation for Uniper: _Authors: [Tunay Okumus](https://github.com/tunayokumus) (Uniper SE)_
 
 
-Diese Inner-Source-Lizenz für die Uniper („Uniper-ISL“) gilt für Werke (im Sinne der nachfolgenden Begriffsbestimmung), die unter Uniper-ISL-Bedingungen zur Verfügung gestellt werden. Das Werk darf nur in der durch diese Lizenz gestatteten Form genutzt werden (insoweit eine solche Nutzung dem Urheber vorbehalten ist).
+This Uniper Inner Source License ("Uniper-ISL") applies to Works (as defined below) made available under Uniper ISL Terms. The Work may be used only as permitted by this license (to the extent such use is reserved by the copyright owner).
 
-Das Werk wird unter den Bedingungen dieser Lizenz zur Verfügung gestellt, wenn der Lizenzgeber (im Sinne der nachfolgenden Begriffsbestimmung) den folgenden Hinweis unmittelbar hinter dem Urheberrechtshinweis dieses Werks anbringt:
+The Work is made available under the terms of this license if the Licensor (as that term is defined below) places the following notice immediately following the copyright notice for that Work:
 
-„Lizenziert unter der Uniper-ISL“ oder alternativ „Licensed under the Uniper-ISL“
+"Licensed under the Uniper-ISL"
 
-oder in einer anderen Form zum Ausdruck bringt, dass er es unter der Uniper-ISL lizenzieren möchte.
+or otherwise expresses that it wishes to license it under the Uniper ISL.
 
-## 1. Begriffsbestimmungen
+## 1. Definition of terms
 
-Für diese Lizenz gelten folgende Begriffsbestimmungen:
+The following definitions apply to this License:
 
-* „Lizenz“: diese Lizenz.
-* „Originalwerk“: das Werk oder die Software, die vom Lizenzgeber unter dieser Lizenz verbreitet oder zugänglich gemacht wird, und zwar als Quellcode und gegebenenfalls auch als ausführbarer Code.
-* „Bearbeitungen“: die Werke oder Software, die der Lizenznehmer auf der Grundlage des Originalwerks oder seiner Bearbeitungen schaffen kann. In dieser Lizenz wird nicht festgelegt, wie umfangreich die Änderung oder wie stark die Abhängigkeit vom Originalwerk für eine Einstufung als Bearbeitung sein muss; dies bestimmt sich nach dem anwendbaren Urheberrecht
-* „Werk“: das Originalwerk oder seine Bearbeitungen.
-* „Quellcode“: diejenige Form des Werkes, die zur Auffassung durch den Menschen bestimmt ist und die am besten geeignet ist, um vom Menschen verstanden und verändert zu werden.
-* „Ausführbarer Code“: die — üblicherweise — kompilierte Form des Werks, die von einem Computer als Programm ausgeführt werden soll.
-* „Lizenzgeber“: die juristische Person innerhalb des Uniper Konzerns, die das Werk unter der Lizenz verbreitet oder zugänglich macht.
-* „Urheberrechtsinhaber/Autor“: jeder, der bestimmte von ihm selbst entwickelte oder von Dritten vorgegebene Aufgabenstellungen in ein Originalwerk umsetzt oder am Originalwerk eine Bearbeitung vornimmt.
-* „Bearbeiter“: jeder, der das Werk unter der Lizenz verändert oder auf andere Weise zur Schaffung einer Bearbeitung beiträgt. Jeder Autor ist auch Bearbeiter.
-* „Lizenznehmer“ („Sie“, „Ihnen“): jede juristische Person innerhalb des Uniper Konzerns, die das Werk unter den Lizenzbedingungen nutzt.
-* „Verbreitung“ oder „Zugänglichmachung“: alle Formen von Verkauf, Überlassung, Verleih, Vermietung, Verbreitung, Weitergabe, Übermittlung oder anderweitiger Online- oder Offline-Bereitstellung von Vervielfältigungen des Werks oder Zugänglichmachung seiner wesentlichen Funktionen für dritte natürliche oder juristische Personen.
-* „Beitrag“: jedes urheberrechtliche Werk, einschließlich des Originalwerks sowie jeglicher Änderungen, die der Bearbeiter vornimmt, und die dem Lizenzgeber bewusst zur Aufnahme in das Werk eingereicht werden.
-* „Uniper“ oder „Uniper Konzern“: die Uniper SE und alle mit ihr nach §15 AktG verbundenen Unternehmen.
+* "License": this license.
+* "Original Work": the work or software distributed or made available by Licensor under this License, as source code and executable code, if any.
+* "Adaptations": the works or software that Licensee may create based on the Original Work or its Adaptations. This license does not specify how extensive the modification must be or how much reliance must be placed on the Original Work for it to be classified as an Adaptation; this is determined by the applicable copyright law
+* "Work": the original work or its adaptations.
+* "Source Code": that form of the Work which is intended for human comprehension and which is most suitable for human understanding and modification.
+* "Executable Code": the - usually - compiled form of the Work intended to be executed by a computer as a program.
+* "Licensor": the legal entity within the Uniper Group that distributes or makes available the Work under the license.
+* "Copyright Owner/Author": anyone who translates certain tasks into an Original Work or makes an Adaptation to the Original Work.
+* "Contributor": anyone who modifies or otherwise contributes to the creation of an adaptation of the Work under the license. Any Author is also a Contributor.
+* "Licensee" ("You"): any legal entity within the Uniper Group that uses the Work under the License Terms.
+* "Distribution" or "Making Available": any form of selling, transferring, lending, renting, distributing, transmitting, or otherwise making available, online or offline, reproductions of the Work or making available its essential functions to any third person or entity.
+* "Contribution": any copyrighted work, including the original work and any modifications made by the contributor that are knowingly submitted to the Licensor for inclusion in the work.
+* "Uniper" or "Uniper Group": Uniper SE and all of its affiliated companies pursuant to section 15 AktG.
 
-## 2. Umfang der Lizenzrechte
+## 2. Scope of the license rights
 
-Der Lizenzgeber erteilt Ihnen hiermit eine weltweite, unentgeltliche, nicht ausschließliche, unterlizenzierbare Lizenz, die Sie für Geschäftszwecke des Uniper Konzerns berechtigt:
+The Licensor hereby grants to you a worldwide, royalty-free, non-exclusive, sub-licensable license, which entitles you, for the Uniper Group's business purposes:
 
-* das Werk uneingeschränkt zu nutzen,
-* das Werk zu vervielfältigen,
-* das Werk zu verändern und Bearbeitungen auf der Grundlage des Werks zu schaffen,
-* das Werk oder Vervielfältigungen davon innerhalb der Uniper zu verbreiten,
+* to use the Work without restriction,
+* to reproduce the Work,
+* modify the Work and create derivative works based on the Work,
+* to distribute the Work or reproductions of the Work within Uniper,
 
-Für die Wahrnehmung dieser Rechte können beliebige, derzeit bekannte oder künftige Medien, Träger und Formate verwendet werden, soweit das geltende Recht dem nicht entgegensteht.
+For the exercise of these rights, any currently known or future media, carriers and formats may be used, provided that applicable law does not prevent this.
 
-Der Lizenzgeber erteilt dem Lizenznehmer ein nicht ausschließliches, unentgeltliches Nutzungsrecht an seinen Patenten, sofern dies zur Ausübung der durch die Lizenz erteilten Nutzungsrechte am Werk notwendig ist.
+Licensor grants Licensee a non-exclusive, royalty-free right to use its patents to the extent necessary to exercise the rights to use the Work granted by the license.
+## 3. Accessibility of the source code.
 
-## 3. Zugänglichmachung des Quellcodes
+The Licensor may make the Work available either as source code or as executable code. If it makes it available as executable code, it shall also make available a machine-readable copy of the source code for each copy of the work that it distributes, or it shall refer in a notice following the copyright notice accompanying the work to a location where the source code can be easily accessed free of charge for as long as the licensor distributes or makes the work available.
 
-Der Lizenzgeber kann das Werk entweder als Quellcode oder als ausführbaren Code zur Verfügung stellen. Stellt er es als ausführbaren Code zur Verfügung, so stellt er darüber hinaus eine maschinenlesbare Kopie des Quellcodes für jedes von ihm verbreitete Vervielfältigungsstück des Werks zur Verfügung, oder er verweist in einem Vermerk im Anschluss an den dem Werk beigefügten Urheberrechtshinweis auf einen Speicherort, an dem problemlos und unentgeltlich auf den Quellcode zugegriffen werden kann, solange der Lizenzgeber das Werk verbreitet oder zugänglich macht.
+## 4. Limitations on ownership rights
 
-## 4. Einschränkungen des Urheberrechts
+It is not the purpose of this license to limit exceptions or limitations to the Author's exclusive rights in the Work that benefit Licensee. This license also does not affect the exhaustion of such rights.
 
-Es ist nicht Zweck dieser Lizenz, Ausnahmen oder Schranken der ausschließlichen Rechte des Urhebers am Werk, die dem Lizenznehmer zugutekommen, einzuschränken. Auch die Erschöpfung dieser Rechte bleibt von dieser Lizenz unberührt.
+## 5. Obligations of the Licensee
 
-## 5. Pflichten des Lizenznehmers
+The granting of the above rights is subject to several restrictions and obligations for the Licensee:
 
-Die Einräumung der oben genannten Rechte ist an mehrere Beschränkungen und Pflichten für den Lizenznehmer gebunden:
+* Inner Source: Licensee may use the Work solely for the Uniper Group's business purposes.
+* Copyright notice, license text, attribution of Contributor: Licensee must leave unchanged all copyright, patent or trademark notices and all references to the license and disclaimer. Licensee must include these notices and this license with each copy of the Work that it distributes or makes available. Licensee must clearly indicate on each Derivative Work that the Work has been modified and indicate the date of modification.
+* "Copyleft" Clause: Licensee may distribute or make available copies of the Original Work or Derivative Works only under the terms of this Uniper ISL or a later version of this license within Uniper. Licensee (who becomes the Licensor) may not offer or impose additional terms on the Work or Adaptation that modify or limit the terms of this license.
+* Provision of Source Code: If Licensee distributes or makes available copies of the Work, Licensee must include a machine-readable version of the source code or provide a location where such source code can be readily accessed without charge for as long as Licensee distributes or makes available the Work.
+* Legal protection: This license does not permit the use of the Licensor's distinctive signs, trademarks or protected name rights, unless this is necessary for the reasonable and customary description of the origin of the work and the reproduction of the content of the copyright notice.
 
-* Inner Source: Der Lizenznehmer darf das Werk ausschließlich für Geschäftszwecke des Uniper Konzerns nutzen.
-* Urheberrechtshinweis, Lizenztext, Nennung des Bearbeiters: Der Lizenznehmer muss alle Urheberrechts-, Patent- oder Markenrechtshinweise und alle Hinweise auf die Lizenz und den Haftungsausschluss unverändert lassen. Jedem von ihm verbreiteten oder zugänglich gemachten Vervielfältigungsstück des Werks muss der Lizenznehmer diese Hinweise sowie diese Lizenz beifügen. Der Lizenznehmer muss auf jedem abgeleiteten Werk deutlich darauf hinweisen, dass das Werk geändert wurde, und das Datum der Bearbeitung angeben.
-* „Copyleft“-Klausel: Der Lizenznehmer darf Vervielfältigungen des Originalwerks oder Bearbeitungen nur unter den Bedingungen dieser Uniper-ISL oder einer neueren Version dieser Lizenz innerhalb der Uniper verbreiten oder zugänglich machen. Der Lizenznehmer (der zum Lizenzgeber wird) darf für das Werk oder die Bearbeitung keine zusätzlichen Bedingungen anbieten oder vorschreiben, die die Bedingungen dieser Lizenz verändern oder einschränken.
-* Bereitstellung des Quellcodes: Wenn der Lizenznehmer Vervielfältigungsstücke des Werks verbreitet oder zugänglich macht, muss er eine maschinenlesbare Fassung des Quellcodes mitliefern oder einen Speicherort angeben, über den problemlos und unentgeltlich so lange auf diesen Quellcode zugegriffen werden kann, wie der Lizenznehmer das Werk verbreitet oder zugänglich macht.
-* Rechtsschutz: Diese Lizenz erlaubt nicht die Benutzung von Kennzeichen, Marken oder geschützten Namensrechten des Lizenzgebers, soweit dies nicht für die angemessene und übliche Beschreibung der Herkunft des Werks und der inhaltlichen Wiedergabe des Urheberrechtshinweises erforderlich ist.
+## 6. Author and Contributor
 
-# 6. Urheber und Bearbeiter
+The original Licensor warrants that it owns the copyright in the original work or that it has been licensed to it and that it has the authority to grant this license.
 
-Der ursprüngliche Lizenzgeber gewährleistet, dass er das Urheberrecht am Originalwerk innehat oder dieses an ihn lizenziert wurde und dass er befugt ist, diese Lizenz zu erteilen.
+Each Contributor warrants that it owns the copyright in any modifications it makes to the Work and that it is authorized to make and contribute under this license.
 
-Jeder Bearbeiter gewährleistet, dass er das Urheberrecht an den von ihm vorgenommenen Änderungen des Werks besitzt und befugt ist, einen Beitrag unter dieser Lizenz zu erstellen und beizutragen.
+In each case where Licensee accepts the license, the original Licensor and all subsequent Contributors grant an authorization to use the Contributions to the Work under the terms of this license.
+## 7. Exclusion of warranty
 
-Für jeden Fall, in dem der Lizenznehmer die Lizenz annimmt, erteilt der ursprüngliche Lizenzgeber und alle folgenden Bearbeiter eine Befugnis zur Nutzung der Beiträge zum Werk unter den Bedingungen dieser Lizenz.
+In the event that the company internal terms and conditions do not apply, the following provisions shall apply.
 
-## 7. Gewährleistungsausschluss
+Development of this Work is ongoing; it is constantly being improved by numerous Contributors. The Work is not completed and may therefore contain errors ("bugs") inherent in this type of development.
 
-Falls die konzerninternen Leistungsbedingungen keine Anwendung finden, gelten die folgenden Regelungen.
+For the reasons stated above, the Work is provided under this license "as is" without warranty of any kind. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, and non-infringement of intellectual property rights other than copyright (see Article 6 of this License).
 
-Die Arbeit an diesem Werk wird laufend fortgeführt; es wird durch unzählige Bearbeiter ständig verbessert. Das Werk ist nicht vollendet und kann daher Fehler („Bugs“) enthalten, die dieser Art der Entwicklung inhärent sind.
+This disclaimer of warranty is an essential part of the license and a condition for the granting of rights to the work.
 
-Aus den genannten Gründen wird das Werk unter dieser Lizenz „so, wie es ist“ ohne jegliche Gewährleistung zur Verfügung gestellt. Dies gilt unter anderem — aber nicht ausschließlich — für Marktreife, Verwendbarkeit für einen bestimmten Zweck, Mängelfreiheit, Richtigkeit sowie Nichtverletzung von anderen Immaterialgüterrechten als dem Urheberrecht (vgl. dazu Artikel 6 dieser Lizenz).
+## 8 Disclaimer/Limitation of Liability
 
-Dieser Gewährleistungsausschluss ist wesentlicher Bestandteil der Lizenz und Bedingung für die Einräumung von Rechten an dem Werk.
+If the company internal terms do not apply, the following provisions shall apply.
 
-## 8. Haftungsausschluss/Haftungsbeschränkung
+Except in cases of willful misconduct or causing personal injury, Licensor shall not be liable for any direct or indirect, tangible or intangible damages of any kind arising out of the license or use of the Work, including, but not limited to, loss of goodwill, loss of production, computer failure or malfunction, loss of data or economic loss, even if Licensor has been advised of the possibility of such damages. Notwithstanding the foregoing, Licensor shall be liable under the statutory product liability provisions to the extent that such provisions are applicable to the Work.
+## 9. Supplemental agreements
 
-Falls die konzerninternen Leistungsbedingungen keine Anwendung finden, gelten die folgenden Regelungen.
+If Licensee distributes the Work, Licensee may enter into supplemental agreements specifying obligations or services consistent with this license.
 
-Außer in Fällen von Vorsatz oder der Verursachung von Personenschäden haftet der Lizenzgeber nicht für direkte oder indirekte, materielle oder immaterielle Schäden irgendwelcher Art, die aus der Lizenz oder der Benutzung des Werks folgen; dies gilt unter anderem, aber nicht ausschließlich, für Firmenwertverluste, Produktionsausfall, Computerausfall oder Computerfehler, Datenverlust oder wirtschaftliche Schäden, und zwar auch dann, wenn der Lizenzgeber auf die Möglichkeit solcher Schäden hingewiesen wurde. Unabhängig davon haftet der Lizenzgeber im Rahmen der gesetzlichen Produkthaftung, soweit die entsprechenden Regelungen auf das Werk anwendbar sind.
+Licensee may enter into obligations only on its own behalf, and not on behalf of the original licensor or any other processor, and only if it agrees to indemnify, defend and hold harmless all such processors in the event that any claim is made against them or liability arises as a result of the warranty obligation or assumption of liability it has entered into.
 
-## 9. Zusatzvereinbarungen
+## 10. Acceptance of the License
 
-Wenn der Lizenznehmer das Werk verbreitet, kann er Zusatzvereinbarungen schließen, in denen Verpflichtungen oder Dienstleistungen festgelegt werden, die mit dieser Lizenz vereinbar sind.
+The Licensee agrees to the terms of this license by using the Work or by giving his consent in a similar manner. Using the Work is considered as an indication of unequivocal and irrevocable acceptance of the license and the clauses and conditions contained therein.
 
-Der Lizenznehmer darf Verpflichtungen nur in seinem eigenen Namen eingehen, nicht jedoch im Namen des ursprünglichen Lizenzgebers oder eines anderen Bearbeiters, und nur, wenn er sich gegenüber allen Bearbeitern verpflichtet, sie zu entschädigen, zu verteidigen und von der Haftung freizustellen, falls aufgrund der von ihm eingegangenen Gewährleistungsverpflichtung oder Haftungsübernahme Forderungen gegen sie geltend gemacht werden oder eine Haftungsverpflichtung entsteht.
+Similarly, the exercise of any of the rights set forth in Article 2 of this License, such as the creation of derivative works or the distribution or making available of the Work or copies thereof, shall be deemed an indication of unambiguous and irrevocable consent.
 
-## 10. Annahme der Lizenz
+## 11. Information obligations
 
-Der Lizenznehmer stimmt den Bestimmungen dieser Lizenz zu, indem er das Symbol „Lizenz annehmen“ unter dem Fenster mit dem Lizenztext anklickt oder indem er seine Zustimmung auf vergleichbare Weise gibt. Das Anklicken des Symbols gilt als Anzeichen der eindeutigen und unwiderruflichen Annahme der Lizenz und der darin enthaltenen Klauseln und Bedingungen.
+If the licensee distributes or makes the work available (for example, by offering it for download from a website), the licensee must provide minimum information to the addressee or the public through the distribution channel or medium used, usually regarding the licensors, the license and its accessibility, the conclusion of the license agreement, and how the license can be stored and reproduced by the licensee.
 
-In gleicher Weise gilt als Zeichen der eindeutigen und unwiderruflichen Zustimmung die Ausübung eines Rechtes, das in Artikel 2 dieser Lizenz angeführt ist, wie das Erstellen einer Bearbeitung oder die Verbreitung oder Zugänglichmachung des Werks oder dessen Vervielfältigungen.
+## 12. Termination of the License
 
-## 11. Informationspflichten
+The License and the rights granted thereunder shall automatically terminate if the Licensee breaches the terms and conditions of the License.
 
-Wenn der Lizenznehmer das Werk verbreitet oder zugänglich macht (beispielsweise, indem er es zum Herunterladen von einer Website anbietet), muss der Lizenznehmer über den Vertriebskanal oder das benutzte Verbreitungsmedium dem Adressatenkreis bzw. der Öffentlichkeit Mindest-Informationen bereitstellen, üblicherweise bezüglich der Lizenzgeber, der Lizenz und ihrer Zugänglichkeit, des Abschlusses des Lizenzvertrags sowie darüber, wie die Lizenz durch den Lizenznehmer gespeichert und vervielfältigt werden kann.
+Such termination of the License shall not terminate the licenses of any third parties to whom the Work has been provided by Licensee under this License, so long as such persons comply with the License Terms.
 
-## 12. Beendigung der Lizenz
+## 13. Submission of Contributions
 
-Die Lizenz und die damit eingeräumten Rechte erlöschen automatisch, wenn der Lizenznehmer gegen die Lizenzbedingungen verstößt.
+Except as otherwise expressly stated, any Contribution knowingly submitted by Licensor for inclusion in the Work is subject to the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the foregoing, nothing herein shall supersede or modify the terms of any separate license agreement that Client may have with Contractor for such Contributions.
 
-Ein solches Erlöschen der Lizenz führt nicht zum Erlöschen der Lizenzen von Dritten, denen das Werk vom Lizenznehmer unter dieser Lizenz zur Verfügung gestellt worden ist, solange diese Personen die Lizenzbedingungen erfüllen.
+For those countries where moral rights in a work may arise, the copyright owner/author waives its moral rights to the extent permitted by law in order to effectively license the exploitation rights set forth above.
 
-## 13. Einreichung von Beiträgen
+## 14. Other
 
-Sofern nichts ausdrücklich anderes angegeben, unterliegt jeder Beitrag, den der Lizenzgeber bewusst zur Aufnahme in das Werk eingereicht hat, den Bedingungen dieser Lizenz, ohne dass zusätzliche Bedingungen gelten. Ungeachtet des Vorstehenden ersetzt oder ändert keine der hierin enthaltenen Bestimmungen die Bedingungen einer separaten Lizenzvereinbarung, die der Auftraggeber möglicherweise mit dem Auftragnehmer für solche Beiträge abgeschlossen hat.
+Without prejudice to Article 9, this License constitutes the entire agreement of the parties relating to the Work.
 
-Für die Länder, in denen Urheberpersönlichkeitsrechte an einem Werk entstehen können, verzichtet der Urheberrechtsinhaber/Autor im gesetzlich zulässigen Umfang auf seine Urheberpersönlichkeitsrechte, um die Lizenzierung der oben aufgeführten Verwertungsrechte wirksam durchführen zu können.
+German law shall apply. If any provision of the License is void or invalid under applicable law, this shall not affect the validity or enforceability of the License per se. Rather, such provisions shall be construed or modified to be valid and enforceable.
 
-## 14. Sonstiges
+## 15. Changes under company law
 
-Unbeschadet des Artikels 9 stellt diese Lizenz die vollständige Vereinbarung der Parteien über das Werk dar.
+In the event of changes under corporate law, e.g., the sale or spin-off of a Uniper company, the following provision shall apply:
 
-Es gilt deutsches Recht. Sind einzelne Bestimmungen der Lizenz nach geltendem Recht nichtig oder unwirksam, so berührt dies nicht die Wirksamkeit oder Durchsetzbarkeit der Lizenz an sich. Solche Bestimmungen werden vielmehr dergestalt ausgelegt oder modifiziert, dass sie wirksam und durchsetzbar sind.
+Any further use of the Licensed Software by a company that is no longer a member of the Uniper Group shall be subject to the consent of the authors or the [decision-making body].
 
-## 15. Gesellschaftsrechtliche Veränderungen
+## 16. License Mmodifications
 
-Bei gesellschaftsrechtlichen Veränderungen, z.B. dem Verkauf oder der Abspaltung einer Uniper Gesellschaft, gilt folgende Regelung:
-
-Eine weitere Nutzung der lizenzierten Software durch ein nicht mehr dem Uniper Konzern angehöriges Unternehmen unterliegt der Zustimmung durch die Urheber bzw. das [Entscheidungsgremium].
-
-## 16. Lizenzänderungen
-
-Die Urheber eines Werks können gemeinsam eine Änderung der Lizenz entscheiden, z.B. um das Werk als Open Source Software zu veröffentlichen. Falls die Urheber nicht verfügbar sind oder sich nicht einigen können, so kann das [Entscheidungsgremium] stellvertretend für alle Urheber innerhalb der Uniper die Änderung der Lizenz für ein Werk beschließen.
+The Authors/Copyright Owners of a Work may jointly decide to modify the license, e.g. to publish the Work as open source software. If the Authors are not available or cannot agree, the [decision-making body] may decide to amend the license for a Work on behalf of all Authors within Uniper.
 
 ## 17. Streitbeilegung
 
-Unbeschadet der Regelungen in den konzerninternen Leistungsbedingungen zwischen den Parteien gilt zwischen den Parteien Folgendes:
+## 17. dispute resolution
 
-Bei Streitigkeiten im Zusammenhang mit der Auslegung und Anwendung dieser Lizenz, bei denen mehr als ein Konzernunternehmen beteiligt ist, dient das [Entscheidungsgremium] als Entscheidungsgremium, welches von jeder Partei angerufen werden kann.
+Notwithstanding anything in the company internal Terms of Service between the parties, the following shall apply between the parties:
 
-## 18. Lizenz der Lizenz
+In the event of any dispute relating to the interpretation and application of this License involving more than one Group Company, the [Decision-Making Body] shall serve as the decision-making body, which may be invoked by either party.
 
-Dieser Lizenztext ist lizenziert unter einer „[Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/)“ (CC-BY 4.0), siehe http://creativecommons.org/licenses/by/4.0/ für den vollständigen Lizenztext.
+## 18. License of the license
 
-Sie dürfen diesen Lizenztext für sich kopieren und anpassen, solange Sie dabei die Uniper Marke und „Uniper“ nur innerhalb der Uniper benutzen. Falls Sie das Material für die Verwendung außerhalb der Uniper anpassen, so müssen Sie alle Nennungen der Uniper und Uniper ersetzen bzw. entfernen. Geänderte Versionen des Lizenztextes müssen klar als geänderte Versionen kenntlich gemacht werden.
+This license text is licensed under a "[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)" (CC-BY 4.0), see http://creativecommons.org/licenses/by/4.0/ for the full license text.
 
-Teile des Textes dieser Lizenz basieren auf der EU Public License (EUPL) v1.2.
+You may copy and adapt this license text for your own use as long as you use the Uniper trademark and "Uniper" only within Uniper. If you adapt the material for use outside Uniper, you must replace or remove all mentions of Uniper and Uniper. Modified versions of the license text must be clearly identified as modified versions.
+
+Parts of the text of this license are based on the EU Public License (EUPL) v1.2 and this license is based on the [Deutsche Bahn Open Source License ("DBISL")](https://github.com/dbsystel/open-source-policies/blob/master/DB-Inner-Source-License.md)
