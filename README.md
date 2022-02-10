@@ -1,5 +1,7 @@
 # inner-source-policies
 
+__Note: This repo is currently in a draft phase and should not be applied to any products yet.__
+
 Collection of Inner Source related policies at Uniper SE.
 
 ## Policies
