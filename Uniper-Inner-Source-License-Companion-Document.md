@@ -29,6 +29,7 @@ The Uniper-ISL is based on a license of the so-called "copyleft" type, which not
 The license is available as an option for internal software development and can also be used in the context of orders and contracts between different parts of the Group.
 
 In addition to the legal framework for sharing code within an open source-like development model, the Uniper ISL also provides the basis for adapting elements of the open source culture where they can help improve communication and collaboration and make processes more efficient, transparent and self-organized.
+
 # Rights and obligations of the Uniper Inner Source License.
 
 The Uniper-ISL maps rights and obligations known from open source licenses to the scenario of intra-group development.

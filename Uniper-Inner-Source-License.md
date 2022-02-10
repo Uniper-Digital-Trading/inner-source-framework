@@ -42,6 +42,7 @@ The Licensor hereby grants to you a worldwide, royalty-free, non-exclusive, sub-
 For the exercise of these rights, any currently known or future media, carriers and formats may be used, provided that applicable law does not prevent this.
 
 Licensor grants Licensee a non-exclusive, royalty-free right to use its patents to the extent necessary to exercise the rights to use the Work granted by the license.
+
 ## 3. Accessibility of the source code.
 
 The Licensor may make the Work available either as source code or as executable code. If it makes it available as executable code, it shall also make available a machine-readable copy of the source code for each copy of the work that it distributes, or it shall refer in a notice following the copyright notice accompanying the work to a location where the source code can be easily accessed free of charge for as long as the licensor distributes or makes the work available.
@@ -67,6 +68,7 @@ The original Licensor warrants that it owns the copyright in the original work o
 Each Contributor warrants that it owns the copyright in any modifications it makes to the Work and that it is authorized to make and contribute under this license.
 
 In each case where Licensee accepts the license, the original Licensor and all subsequent Contributors grant an authorization to use the Contributions to the Work under the terms of this license.
+
 ## 7. Exclusion of warranty
 
 In the event that the company internal terms and conditions do not apply, the following provisions shall apply.
@@ -82,6 +84,7 @@ This disclaimer of warranty is an essential part of the license and a condition 
 If the company internal terms do not apply, the following provisions shall apply.
 
 Except in cases of willful misconduct or causing personal injury, Licensor shall not be liable for any direct or indirect, tangible or intangible damages of any kind arising out of the license or use of the Work, including, but not limited to, loss of goodwill, loss of production, computer failure or malfunction, loss of data or economic loss, even if Licensor has been advised of the possibility of such damages. Notwithstanding the foregoing, Licensor shall be liable under the statutory product liability provisions to the extent that such provisions are applicable to the Work.
+
 ## 9. Supplemental agreements
 
 If Licensee distributes the Work, Licensee may enter into supplemental agreements specifying obligations or services consistent with this license.
@@ -122,13 +125,11 @@ In the event of changes under corporate law, e.g., the sale or spin-off of a Uni
 
 Any further use of the Licensed Software by a company that is no longer a member of the Uniper Group shall be subject to the consent of the authors or the [decision-making body].
 
-## 16. License Mmodifications
+## 16. License modifications
 
 The Authors/Copyright Owners of a Work may jointly decide to modify the license, e.g. to publish the Work as open source software. If the Authors are not available or cannot agree, the [decision-making body] may decide to amend the license for a Work on behalf of all Authors within Uniper.
 
-## 17. Streitbeilegung
-
-## 17. dispute resolution
+## 17. Dispute resolution
 
 Notwithstanding anything in the company internal Terms of Service between the parties, the following shall apply between the parties:
 
