@@ -139,6 +139,6 @@ In the event of any dispute relating to the interpretation and application of th
 
 This license text is licensed under a "[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)" (CC-BY 4.0), see http://creativecommons.org/licenses/by/4.0/ for the full license text.
 
-You may copy and adapt this license text for your own use as long as you use the Uniper trademark and "Uniper" only within Uniper. If you adapt the material for use outside Uniper, you must replace or remove all mentions of Uniper and Uniper. Modified versions of the license text must be clearly identified as modified versions.
+You may copy and adapt this license text for your own use as long as you use the Uniper trademark and "Uniper" only within Uniper. If you adapt the material for use outside Uniper, you must replace or remove all mentions of Uniper. Modified versions of the license text must be clearly identified as modified versions.
 
-Parts of the text of this license are based on the EU Public License (EUPL) v1.2 and this license is based on the [Deutsche Bahn Open Source License ("DBISL")](https://github.com/dbsystel/open-source-policies/blob/master/DB-Inner-Source-License.md)
+This license is modified based on the [Deutsche Bahn Open Source License ("DBISL")](https://github.com/dbsystel/open-source-policies/blob/master/DB-Inner-Source-License.md). Parts of the text of the original license are based on the EU Public License (EUPL) v1.2.
