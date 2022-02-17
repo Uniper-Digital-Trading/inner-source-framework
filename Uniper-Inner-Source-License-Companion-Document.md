@@ -32,7 +32,7 @@ In addition to the legal framework for sharing code within an open source-like d
 
 # Rights and obligations of the Uniper Inner Source License.
 
-The Uniper-ISL maps rights and obligations known from open source licenses to the scenario of intra-group development.
+The Uniper-ISL maps rights and obligations known from open source licenses to the scenario of group internal development.
 
 It is important to note that the rights and freedoms arising therefrom are always limited to use and disclosure within the group. Any transfer to parties outside the group requires explicit re-licensing, which must be carried out by the relevant rights holders.
 
