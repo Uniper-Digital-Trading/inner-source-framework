@@ -1,4 +1,4 @@
-# Companion Documentation for Uniper Inner Source Framework
+# Uniper Inner Source Framework
 
 ## What is inner-source?
 
