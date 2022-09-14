@@ -1,12 +1,12 @@
-# inner-source-policies
+# inner-source-framework
 
 __Note: This repo is currently in a draft phase and should not be applied to any products yet.__
 
-Collection of Inner Source related policies at Uniper SE.
+Collection of Inner Source related framework at Uniper SE.
 
-## Policies
+## Framework
 
-* [Uniper Inner Source License](Uniper-Inner-Source-License.md) with [accompanying documentation](Uniper-Inner-Source-License-Companion-Document.md)
+* [Framework documentation](Uniper-Inner-Source-Framework.md) with accompanying example of [Uniper Inner Source License](Uniper-Inner-Source-License.md).
 
 ## License
 
