@@ -1,8 +1,7 @@
 # inner-source-framework
 
-__Note: This repo is currently in a draft phase and should not be applied to any products yet.__
 
-Collection of Inner Source related framework at Uniper SE.
+Collection of Inner Source related guidelines at Uniper SE.
 
 ## Framework
 

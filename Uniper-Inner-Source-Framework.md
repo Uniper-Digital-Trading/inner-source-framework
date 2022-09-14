@@ -76,7 +76,7 @@ In each file of source code, a reference to the license and the owner of the exp
 Example:
 
     // Copyright 2022 Uniper SE
-    // Licensed under the Uniper Inner Source License ver.1.0, see the accompanying file LICENSE.
+    // Licensed under the Uniper Inner Source License, see the accompanying file LICENSE.
 
 If changes are made to a file by a rights holder who is not yet named in the copyright notice, this new rights holder will insert an additional copyright line.
 
