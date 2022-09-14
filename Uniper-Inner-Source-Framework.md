@@ -19,7 +19,7 @@ In addition to the legal framework for sharing code within an open source-like d
 
 # Etiquette within the Uniper Inner Source Framework.
 
-The Uniper-ISF maps best practices known from open source licenses to the scenario of intra-group development.
+The Uniper-ISF maps best practices known from open source licenses to the scenario of group internal development.
 
 It is important to note that the rights and freedoms arising therefrom are always limited to use and disclosure within the group. Any transfer to parties outside the group requires explicit re-licensing, which must be carried out by the relevant rights holders.
 
@@ -99,8 +99,8 @@ For comparison here are the links to some other licenses:
 
 -   [EUPL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017D0863) - EU open source license, adapted to the European legal situation, template for part of the Uniper-ISF.
 
--   [Kommentar EUPL](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL-V11Broschuere-20090423WEB.pdf) - commented version of the EUPL
+-   [Commented EUPL](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL-V11Broschuere-20090423WEB.pdf) - commented version of the EUPL
 
 -   [LGPL](https://www.gnu.de/documents/lgpl-3.0.de.html) - Open-Source-License with "weak Copyleft"
 
--   [Apache Lizenz](https://www.apache.org/licenses/LICENSE-2.0) - one of the most common "permissive" licenses
+-   [Apache License](https://www.apache.org/licenses/LICENSE-2.0) - one of the most common "permissive" licenses
