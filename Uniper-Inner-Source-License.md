@@ -1,16 +1,12 @@
-# Uniper Inner Source License Version 0.1.DRAFT
+# A License example under Uniper Inner Source Framework Version --> change text for each project as needed
 
-Original license: _Authors: [Cornelius Schumacher](https://github.com/cornelius), [Schlomo Schapiro](https://github.com/schlomo) (both DB Systel GmbH)_ \
-Adaptation for Uniper: _Authors: [Tunay Okumus](https://github.com/tunayokumus) (Uniper SE)_
-
-
-This Uniper Inner Source License ("Uniper-ISL") applies to Works (as defined below) made available under Uniper ISL Terms. The Work may be used only as permitted by this license (to the extent such use is reserved by the copyright owner).
+This software license applies to Works (as defined below) made available under Uniper Inner Source Framework (Uniper-ISF). The Work may be used only as permitted by this license (to the extent such use is reserved by the licensor).
 
 The Work is made available under the terms of this license if the Licensor (as that term is defined below) places the following notice immediately following the copyright notice for that Work:
 
-"Licensed under the Uniper-ISL"
+"Licensed under the Uniper Inner-Source License"
 
-or otherwise expresses that it wishes to license it under the Uniper ISL.
+or otherwise expresses that it wishes to license it under the Uniper ISF.
 
 ## 1. Definition of terms
 
@@ -23,7 +19,8 @@ The following definitions apply to this License:
 * "Source Code": that form of the Work which is intended for human comprehension and which is most suitable for human understanding and modification.
 * "Executable Code": the - usually - compiled form of the Work intended to be executed by a computer as a program.
 * "Licensor": the legal entity within the Uniper Group that distributes or makes available the Work under the license.
-* "Copyright Owner/Author": anyone who translates certain tasks into an Original Work or makes an Adaptation to the Original Work.
+* "Copyright Owner": Owner of the work. (This is often a legal entity within the Uniper Group.)
+* "Author": anyone who translates certain tasks into an Original Work or makes an Adaptation to the Original Work.
 * "Contributor": anyone who modifies or otherwise contributes to the creation of an adaptation of the Work under the license. Any Author is also a Contributor.
 * "Licensee" ("You"): any legal entity within the Uniper Group that uses the Work under the License Terms.
 * "Distribution" or "Making Available": any form of selling, transferring, lending, renting, distributing, transmitting, or otherwise making available, online or offline, reproductions of the Work or making available its essential functions to any third person or entity.
@@ -57,7 +54,7 @@ The granting of the above rights is subject to several restrictions and obligati
 
 * Inner Source: Licensee may use the Work solely for the Uniper Group's business purposes.
 * Copyright notice, license text, attribution of Contributor: Licensee must leave unchanged all copyright, patent or trademark notices and all references to the license and disclaimer. Licensee must include these notices and this license with each copy of the Work that it distributes or makes available. Licensee must clearly indicate on each Derivative Work that the Work has been modified and indicate the date of modification.
-* "Copyleft" Clause: Licensee may distribute or make available copies of the Original Work or Derivative Works only under the terms of this Uniper ISL or a later version of this license within Uniper. Licensee (who becomes the Licensor) may not offer or impose additional terms on the Work or Adaptation that modify or limit the terms of this license.
+* "Copyleft" Clause: Licensee may distribute or make available copies of the Original Work or Derivative Works only under the terms of this license or a later version of this license within Uniper. Licensee (who becomes the Licensor) may not offer or impose additional terms on the Work or Adaptation that modify or limit the terms of this license.
 * Provision of Source Code: If Licensee distributes or makes available copies of the Work, Licensee must include a machine-readable version of the source code or provide a location where such source code can be readily accessed without charge for as long as Licensee distributes or makes available the Work.
 * Legal protection: This license does not permit the use of the Licensor's distinctive signs, trademarks or protected name rights, unless this is necessary for the reasonable and customary description of the origin of the work and the reproduction of the content of the copyright notice.
 
@@ -127,7 +124,7 @@ Any further use of the Licensed Software by a company that is no longer a member
 
 ## 16. License modifications
 
-The Authors/Copyright Owners of a Work may jointly decide to modify the license, e.g. to publish the Work as open source software. If the Authors are not available or cannot agree, the [decision-making body] may decide to amend the license for a Work on behalf of all Authors within Uniper.
+The Authors and Copyright Owners of a Work may jointly decide to modify the license, e.g. to publish the Work as open source software. If the Authors are not available or cannot agree, the Copyright Owners may decide to amend the license for a Work on behalf of all Authors within Uniper.
 
 ## 17. Dispute resolution
 
